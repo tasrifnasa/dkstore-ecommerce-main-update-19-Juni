@@ -1,0 +1,810 @@
+{
+  "@@locale": "id",
+  "appTitle": "Dkstore",
+  "appName": "Dkstore",
+  "welcome": "Selamat Datang",
+  "login": "Masuk",
+  "register": "Daftar",
+  "email": "Email",
+  "password": "Kata Sandi",
+  "confirmPassword": "Konfirmasi Kata Sandi",
+  "forgotPassword": "Lupa Kata Sandi?",
+  "dontHaveAccount": "Belum memiliki akun?",
+  "alreadyHaveAccount": "Sudah memiliki akun?",
+  "signUp": "Daftar",
+  "signIn": "Masuk",
+  "home": "Beranda",
+  "profile": "Profil",
+  "dashboard": "Dasbor",
+  "settings": "Pengaturan",
+  "language": "Bahasa",
+  "selectLanguage": "Pilih Bahasa",
+  "english": "Inggris",
+  "arabic": "Arab",
+  "french": "Perancis",
+  "hindi": "Hindi",
+  "gujarati": "Gujarati",
+  "telugu": "Telugu",
+  "location": "Lokasi",
+  "selectLocation": "Pilih Lokasi",
+  "currentLocation": "Lokasi Saat Ini",
+  "search": "Cari",
+  "categories": "Kategori",
+  "nearby": "Terdekat",
+  "logout": "Keluar",
+  "cancel": "Batal",
+  "save": "Simpan",
+  "ok": "OK",
+  "error": "Kesalahan",
+  "success": "Berhasil",
+  "loading": "Memuat...",
+  "noData": "Tidak ada data tersedia",
+  "retry": "Coba Lagi",
+  "networkError": "Kesalahan Jaringan",
+  "tryAgain": "Silakan coba lagi",
+  "permissionDenied": "Izin Ditolak",
+  "locationPermissionRequired": "Izin lokasi diperlukan",
+  "enableLocation": "Silakan aktifkan layanan lokasi",
+  "appearance": "Tampilan",
+  "changeAppTheme": "Ubah tema aplikasi",
+  "systemMode": "Mode sistem",
+  "lightMode": "Mode terang",
+  "darkMode": "Mode gelap",
+  "apply": "Terapkan",
+  "current": "Saat Ini",
+  "cart": "Keranjang",
+  "viewCouponOffers": "Lihat Kupon & Penawaran",
+  "placeOrder": "Pesan Sekarang",
+  "selectPaymentMethod": "Pilih metode pembayaran",
+  "payUsing": "Bayar Menggunakan",
+  "yourCartIsEmpty": "Keranjang Anda kosong",
+  "looksLikeYouHaventAddedAnythingYet": "Sepertinya Anda belum menambahkan apa pun",
+  "browseProducts": "Jelajahi produk",
+  "addMoreItemsTapped": "Tombol tambah item lagi diklik!",
+  "removeItem": "Hapus item",
+  "areYouSureYouWantToRemoveItemFromCart": "Anda yakin ingin menghapus {item} dari keranjang?",
+  "@areYouSureYouWantToRemoveItemFromCart": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      }
+    }
+  },
+  "delete": "Hapus",
+  "saveForLater": "Simpan Untuk Nanti",
+  "billDetails": "Detail Tagihan",
+  "itemsTotal": "Total Item",
+  "saved": "Disimpan",
+  "deliveryCharge": "Biaya Pengiriman",
+  "free": "GRATIS",
+  "perStoreDropOffFees": "Biaya antar toko per toko",
+  "handlingCharge": "Biaya Penanganan",
+  "promoCode": "Kode Promo",
+  "promoDiscount": "Diskon Promo",
+  "removeCoupon": "Hapus Kupon",
+  "grandTotal": "Total Akhir",
+  "yourTotalSavings": "Total penghematan Anda",
+  "downloadInvoice": "Unduh Faktur",
+  "myOrders": "Pesanan Saya",
+  "noOrdersYet": "Belum ada pesanan",
+  "failedToLoadOrders": "Gagal memuat pesanan",
+  "rateOrder": "Beri Nilai Pesanan",
+  "howWasYourOrder": "Bagaimana pesanan Anda?",
+  "orderSummary": "Ringkasan Pesanan",
+  "orderDetailsRefreshed": "Detail pesanan diperbarui",
+  "rateYourExperience": "Beri nilai pengalaman Anda",
+  "failedToLoadOrderDetails": "Gagal memuat detail pesanan",
+  "noItemsToDisplay": "Tidak ada item untuk ditampilkan",
+  "deleteReview": "Hapus Ulasan?",
+  "thisActionCannotBeUndone": "Tindakan ini tidak dapat dibatalkan.",
+  "edit": "Edit",
+  "cancelItem": "Batalkan item",
+  "areYouSureYouWantToCancelThisItem": "Anda yakin ingin membatalkan item ini?",
+  "cancelReturnRequest": "Batalkan permintaan pengembalian",
+  "areYouSureYouWantToCancelThisReturnRequest": "Anda yakin ingin membatalkan permintaan pengembalian ini?",
+  "cancelReturnRequestButton": "Batalkan Permintaan Pengembalian",
+  "cancelItemButton": "Batalkan Item",
+  "howWasYourShoppingExperience": "Bagaimana pengalaman berbelanja Anda?",
+  "trackDelivery": "Lacak Pengiriman",
+  "myWishlist": "Wishlist Saya",
+  "createNewWishlist": "Buat wishlist baru",
+  "createNewWishlistTitle": "Buat Wishlist Baru",
+  "enterWishlistName": "Masukkan nama wishlist",
+  "pleaseEnterAWishlistName": "Silakan masukkan nama wishlist",
+  "create": "Buat",
+  "update": "Perbarui",
+  "editWishlist": "Edit Wishlist",
+  "noWishlistsYet": "Belum ada wishlist",
+  "noOtherWishlistsAvailable": "Tidak ada Wishlist lain yang tersedia",
+  "noProductsFound": "Tidak ada produk ditemukan",
+  "somethingWentWrong": "Ada yang salah",
+  "deleteWishlistName": "Hapus {wishlistName}",
+  "@deleteWishlistName": {
+    "placeholders": {
+      "wishlistName": {
+        "type": "String"
+      }
+    }
+  },
+  "myAddresses": "Alamat Saya",
+  "addAddress": "Tambah Alamat",
+  "deleteAddress": "Hapus Alamat",
+  "areYouSureYouWantToDeleteThisAddress": "Anda yakin ingin menghapus alamat ini?",
+  "near": "Dekat",
+  "noAddressSelected": "Tidak ada alamat yang dipilih",
+  "pleaseSelectAnImageAndEnterYourName": "Silakan pilih gambar dan masukkan nama Anda",
+  "loadingProfile": "Memuat profil...",
+  "saveChanges": "Simpan Perubahan",
+  "editProfile": "Edit Profil",
+  "labelCopiedToClipboard": "{label} disalin ke papan klip",
+  "@labelCopiedToClipboard": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "yourDeliveryAddress": "Alamat Pengiriman Anda",
+  "shoppingList": "Daftar Belanja",
+  "aboutUs": "Tentang Kami",
+  "termsCondition": "Syarat & Ketentuan",
+  "privacyPolicy": "Kebijakan Privasi",
+  "refundPolicy": "Kebijakan Pengembalian Dana",
+  "shippingPolicy": "Kebijakan Pengiriman",
+  "deleteAccount": "Hapus Akun",
+  "pleaseEnterYourName": "Silakan masukkan nama Anda",
+  "nameMustBeAtLeast2Characters": "Nama harus setidaknya 2 karakter",
+  "productDetails": "Detail Produk",
+  "description": "Deskripsi",
+  "specification": "Spesifikasi",
+  "reviews": "Ulasan",
+  "similarProducts": "Produk Serupa",
+  "specifications": "Spesifikasi",
+  "customerReviews": "Ulasan Pelanggan",
+  "seeAll": "See All",
+  "addYourReview": "Tambahkan Ulasan Anda",
+  "rateThisProduct": "Beri nilai produk ini",
+  "submitReview": "Kirim Ulasan",
+  "questionAndAnswers": "Pertanyaan dan Jawaban",
+  "askAQuestion": "Ajukan Pertanyaan",
+  "submit": "Kirim",
+  "questionSubmittedSuccessfully": "Pertanyaan berhasil dikirim!",
+  "pleaseSelectVariant": "Silakan pilih varian",
+  "viewProductDetails": "Lihat Detail Produk",
+  "productAddedToCartSuccessfully": "Produk berhasil ditambahkan ke keranjang!",
+  "failedToAddProduct": "Gagal menambahkan produk: {error}",
+  "@failedToAddProduct": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "outOfStock": "Stok habis",
+  "productVariants": "Varian Produk",
+  "selectVariant": "Pilih varian",
+  "add": "Tambah",
+  "noProductFound": "Tidak Ada Produk Ditemukan",
+  "filters": "Filter",
+  "sort": "Sortir",
+  "popularity": "Popularitas",
+  "searchResultFor": "Hasil pencarian untuk \"{title}\"",
+  "@searchResultFor": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "relevanceDefault": "Relevansi (default)",
+  "priceLowToHigh": "Harga (rendah ke tinggi)",
+  "priceHighToLow": "Harga (tinggi ke rendah)",
+  "discountHighToLow": "Diskon (tinggi ke rendah)",
+  "items": "item",
+  "startTypingForSuggestions": "Mulai mengetik untuk saran",
+  "noSuggestionsFound": "Tidak ada saran ditemukan",
+  "speak": "Berbicara",
+  "trySayingSomething": "Coba katakan sesuatu",
+  "speechStoppedTryAgain": "Ucapan berhenti. Coba lagi.",
+  "close": "Tutup",
+  "searchProducts": "Cari produk...",
+  "searchForProducts": "Cari produk",
+  "typeProductNameBrandOrCategory": "Ketik nama produk, merek, atau kategori untuk memulai",
+  "searching": "Mencari...",
+  "trySearchingWithDifferentKeywords": "Coba cari dengan kata kunci yang berbeda",
+  "nearbyStores": "Toko Terdekat",
+  "noStoresFoundNearby": "Tidak ada toko ditemukan di dekat sini.",
+  "searchInStore": "Cari di {storeName}",
+  "@searchInStore": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "savedForLater": "Disimpan untuk nanti",
+  "moveToCart": "Pindahkan ke Keranjang",
+  "addFirstItem": "Tambah Item Pertama",
+  "resultFor": "Hasil untuk \"{title}\"",
+  "@resultFor": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "addMoney": "Tambah Uang",
+  "enterAmount": "Masukkan Jumlah",
+  "note": "Catatan:",
+  "hyperlocalWalletBalanceValidFor1Year": "Saldo Dompet Dkstore berlaku selama 1 tahun sejak tanggal uang ditambahkan",
+  "hyperlocalWalletBalanceCannotBeTransferred": "Saldo Dompet Dkstore tidak dapat ditransfer ke rekening bank sesuai pedoman RBI",
+  "pleaseEnterAnAmountGreaterThanOrEqualTo1": "Silakan masukkan jumlah yang lebih besar dari atau sama dengan 1",
+  "transactions": "Transaksi",
+  "promoCodeCoupons": "Kode Promo & Kupon",
+  "support": "Dukungan",
+  "callUs": "Hubungi Kami",
+  "phoneNumber": "Nomor telepon",
+  "emailUs": "Email Kami",
+  "tapToContact": "Ketuk untuk menghubungi",
+  "rateStoreName": "Beri nilai {storeName}",
+  "@rateStoreName": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "editYourFeedback": "Edit umpan balik Anda",
+  "howWasYourExperience": "Bagaimana pengalaman Anda?",
+  "tapToRate": "Ketuk untuk memberi nilai",
+  "star": "{rating} Bintang",
+  "@star": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "stars": "{rating} Bintang",
+  "@stars": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "titleRequired": "Judul *",
+  "egGreatService": "cth., Layanan yang bagus!",
+  "descriptionRequired": "Deskripsi *",
+  "shareMoreDetails": "Bagikan detail lebih lanjut...",
+  "submitFeedback": "Kirim Umpan Balik",
+  "updateFeedback": "Perbarui Umpan Balik",
+  "updating": "Memperbarui...",
+  "submitting": "Mengirim...",
+  "deleteFeedback": "Hapus Umpan Balik",
+  "areYouSureYouWantToDeleteThisFeedback": "Anda yakin ingin menghapus umpan balik ini?",
+  "pleaseGiveARating": "Silakan berikan penilaian",
+  "pleaseEnterATitle": "Silakan masukkan judul",
+  "pleaseEnterADescription": "Silakan masukkan deskripsi",
+  "deliveryType": "Jenis Pengiriman",
+  "rushDelivery": "Instant",
+  "prioritizedDeliveryForYourUrgentNeeds": "Pengiriman prioritas untuk kebutuhan mendesak Anda.",
+  "regularDelivery": "Reguler",
+  "standardDeliveryWithNoExtraCharges": "Pengiriman standar tanpa biaya tambahan.",
+  "deliverTo": "Kirimkan ke",
+  "change": "Ubah",
+  "noInternetConnection": "Tidak Ada Koneksi Internet",
+  "appUnderMaintenance": "Aplikasi Sedang dalam Pemeliharaan",
+  "noOrderFound": "Tidak Ada Pesanan Ditemukan",
+  "noSearchResults": "Tidak Ada Hasil Pencarian",
+  "microphoneUnavailable": "Izin mikrofon atau layanan ucapan tidak tersedia",
+  "speakNow": "Berbicara Sekarang",
+  "listening": "Mendengarkan...",
+  "noSpeechDetected": "Tidak ada ucapan terdeteksi",
+  "locationServices": "Layanan Lokasi",
+  "appPermission": "Izin Aplikasi",
+  "continueWithGoogle": "Lanjutkan dengan Google",
+  "continueWithApple": "Lanjutkan dengan Apple",
+  "continueWithMobile": "Lanjutkan dengan ponsel",
+  "reviewsRatings": "Ulasan & Rating",
+  "frequentlyAskedQuestions": "Pertanyaan yang Sering Diajukan",
+  "dialog": "Dialog",
+  "looksLikeTheStoreCatchingSomeRest": "Sepertinya toko sedang istirahat. Kembali lagi nanti!",
+  "addressLine1": "Alamat Baris 1",
+  "addressLine2Optional": "Alamat Baris 2 (Opsional)",
+  "country": "Negara",
+  "state": "Provinsi",
+  "city": "Kota",
+  "zipcode": "Kode Pos",
+  "landmark": "Landmark",
+  "mobileNumber": "Nomor Ponsel",
+  "soldBy": "Dijual oleh:",
+  "searchAnAreaOrAddress": "Cari area atau alamat",
+  "describeTheIssue": "Jelaskan masalahnya",
+  "writeYourReviewHere": "Tulis ulasan Anda di sini...",
+  "typeYourQuestionHere": "Ketik pertanyaan Anda di sini...",
+  "enterReviewTitle": "Masukkan judul ulasan",
+  "shareYourThoughts": "Bagikan pemikiran Anda...",
+  "searchForAreaStreetName": "Cari area, nama jalan...",
+  "pleaseSelectADeliveryAddressFirst": "Silakan pilih alamat pengiriman terlebih dahulu",
+  "paymentMethodNotSelected": "Metode pembayaran tidak dipilih",
+  "inclusiveOfAllTax": "(termasuk semua pajak)",
+  "brand": "Merek",
+  "packOf": "Berisi",
+  "category": "Kategori",
+  "madeIn": "Dibuat di",
+  "indicator": "Indikator",
+  "guaranteePeriod": "Periode Jaminan",
+  "warrantyPeriod": "Periode Garansi",
+  "returnable": "Dapat dikembalikan",
+  "na": "T/A",
+  "yes": "Ya",
+  "noDescriptionAvailable": "Tidak ada deskripsi tersedia.",
+  "wallet": "Dompet",
+  "wishlist": "Wishlist",
+  "stores": "Toko",
+  "account": "Akun",
+  "paymentMethod": "Metode Pembayaran",
+  "currentLanguage": "Bahasa Saat Ini",
+  "promoApplied": "Promo Diterapkan",
+  "on": "PADA",
+  "rushDeliveryActive": "Pengiriman Ekspres Aktif",
+  "cashbackApplied": "Cashback Diterapkan",
+  "instantDiscountApplied": "Diskon Instan Diterapkan",
+  "willBeAdded": "Akan ditambahkan",
+  "areYouSure": "Anda yakin?",
+  "clearCartConfirm": "Anda benar-benar ingin mengosongkan keranjang?",
+  "no": "Tidak",
+  "yesClear": "Ya, kosongkan",
+  "logoutConfirmation": "Anda yakin ingin keluar?",
+  "maxCartItemLimitReached": "Anda telah mencapai batas jumlah item keranjang maksimum",
+  "all": "Semua",
+  "shopByCategories": "Kategori",
+  "topBrands": "Top Brands",
+  "addItemsToGetStarted": "Tambahkan item untuk memulai",
+  "yourShoppingListIsEmpty": "Daftar belanja Anda kosong",
+  "listItem": "Item daftar",
+  "itemsAdded": "item ditambahkan",
+  "startShopping": "Mulai Berbelanja",
+  "typeItemName": "Ketik nama item...",
+  "pleaseAdd1ItemInShoppingList": "Silakan tambahkan setidaknya 1 item di daftar belanja Anda",
+  "selectDeliveryLocation": "Pilih Lokasi Pengiriman",
+  "searchForAreaStreet": "Cari area, nama jalan...",
+  "useCurrentLocation": "Gunakan lokasi saat ini",
+  "addNewAddress": "Tambah Alamat Baru",
+  "savedAddresses": "Alamat Tersimpan",
+  "notLoggedIn": "Tidak Masuk",
+  "pleaseLoginToViewYourProfile": "Silakan masuk untuk melihat profil Anda",
+  "goToLogin": "Ke Halaman Masuk",
+  "trackYourDelivery": "Lacak Pengiriman Anda",
+  "returnItem": "Kembalikan Item",
+  "failedToLoadTrackingData": "Gagal memuat data pelacakan",
+  "delivered": "Terkirim",
+  "onTheWay": "Dalam perjalanan",
+  "trackingLiveLocation": "Melacak lokasi langsung",
+  "arrivingIn": "Tiba dalam",
+  "mins": "menit",
+  "deliveryPartner": "Mitra Pengiriman",
+  "orderDetails": "Detail Pesanan",
+  "orderId": "ID Pesanan",
+  "payment": "Pembayaran",
+  "orderPlaced": "Pesanan Ditempatkan",
+  "deliveryDetails": "Detail pengiriman",
+  "copiedToClipboard": "{label} disalin ke papan klip",
+  "@copiedToClipboard": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "orderIdCopied": "ID Pesanan disalin!",
+  "reasonForReturn": "Alasan pengembalian",
+  "submitReturn": "Kirim Pengembalian",
+  "thisProductIsNotCancelable": "Produk ini tidak dapat dibatalkan",
+  "thisProductIsNotReturnable": "Produk ini tidak dapat dikembalikan",
+  "returnButton": "Kembalikan",
+  "qty": "Jml",
+  "moveToEllipsis": "Pindahkan ke…",
+  "addToEllipsis": "Tambah ke…",
+  "locationAccessNeeded": "Akses Lokasi Diperlukan",
+  "later": "Nanti",
+  "openSettings": "Buka Pengaturan",
+  "appPermissions": "Izin Aplikasi",
+  "checkingEmail": "Memeriksa email...",
+  "searchInStoreName": "Cari di {storeName}",
+  "@searchInStoreName": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "descriptionOptional": "Deskripsi (opsional)",
+  "greatService": "cth., Layanan yang bagus!",
+  "fullName": "Nama Lengkap",
+  "enterYourFullName": "Masukkan nama lengkap Anda",
+  "enterYourEmail": "Masukkan email Anda",
+  "enterYourPhoneNumber": "Masukkan nomor telepon Anda",
+  "enterYourPassword": "Masukkan kata sandi Anda",
+  "confirmYourPassword": "Konfirmasi kata sandi Anda",
+  "emailOrPhoneNumber": "Email atau Nomor Ponsel",
+  "emailAddress": "Alamat Email",
+  "uploadImages": "Unggah gambar",
+  "tapToUploadPhotos": "Ketuk untuk mengunggah foto",
+  "helpUsUnderstandYourExperience": "Bantu kami memahami pengalaman Anda",
+  "youCanUploadUpToMaxImages": "Anda hanya dapat mengunggah hingga {max} gambar.",
+  "@youCanUploadUpToMaxImages": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "onlyRemainingMoreImagesAdded": "Hanya {remaining} gambar lagi yang ditambahkan. Batas maksimal: {max}.",
+  "@onlyRemainingMoreImagesAdded": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "maxImagesAllowedExtensions": "• Maks {max} gambar • {extensions} • {size} per gambar",
+  "@maxImagesAllowedExtensions": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      },
+      "extensions": {
+        "type": "String"
+      },
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "product": "Produk",
+  "quantity": "Jumlah",
+  "price": "Harga",
+  "clearCart": "Kosongkan keranjang",
+  "clearAllItems": "Kosongkan semua item?",
+  "allItemsWillBeRemovedCannotBeUndone": "Semua item akan dihapus dan tindakan ini tidak dapat dibatalkan",
+  "paymentSuccessful": "Pembayaran berhasil!",
+  "paymentFailedOrCancelled": "Pembayaran gagal atau dibatalkan",
+  "failedToDeleteAddress": "Gagal menghapus alamat",
+  "pressAgainToExitTheApp": "Tekan lagi untuk keluar dari aplikasi",
+  "youHaveReachedMaximumLimitOfCart": "Anda telah mencapai batas maksimum keranjang",
+  "sellerInformationNotAvailable": "Informasi penjual tidak tersedia",
+  "failedToRefreshOrderDetails": "Gagal menyegarkan detail pesanan",
+  "productSavedForLater": "{productName} disimpan untuk nanti",
+  "@productSavedForLater": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+  },
+  "promoCodeAppliedOnYourCart": "Kode promo diterapkan pada keranjang Anda",
+  "youHaveCrossedMaximumCartAmountLimit": "Anda telah melampui batas jumlah keranjang maksimum. Silakan hapus beberapa produk dari keranjang",
+  "feedbackSubmittedSuccessfully": "Umpan balik berhasil dikirim!",
+  "feedbackUpdatedSuccessfully": "Umpan balik berhasil diperbarui!",
+  "paymentFailed": "Pembayaran gagal",
+  "copiedToClipboardWithLabel": "{label} disalin ke papan klip!",
+  "@copiedToClipboardWithLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterCompleteOTP": "Silakan masukkan OTP lengkap",
+  "verificationIdNotFound": "ID verifikasi tidak ditemukan. Silakan coba lagi.",
+  "otpSentTo": "OTP dikirim ke {phoneNumber}",
+  "@otpSentTo": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "registrationDataNotFound": "Data pendaftaran tidak ditemukan. Silakan coba lagi.",
+  "noAccountFoundWithEmailOrPhone": "Tidak ada akun dengan email atau telepon ini",
+  "pleaseEnterValidPhoneNumber": "Silakan masukkan nomor telepon yang valid",
+  "emailAlreadyRegistered": "Email sudah terdaftar. Silakan gunakan email yang berbeda.",
+  "pleaseEnterYourFullName": "Silakan masukkan nama lengkap Anda",
+  "pleaseEnterYourEmail": "Silakan masukkan email Anda",
+  "pleaseEnterAValidEmail": "Silakan masukkan email yang valid",
+  "pleaseEnterYourPhoneNumber": "Silakan masukkan nomor telepon Anda",
+  "pleaseEnterYourPassword": "Silakan masukkan kata sandi Anda",
+  "passwordMustBeAtLeast8Characters": "Kata sandi harus minimal 8 karakter",
+  "pleaseConfirmYourPassword": "Silakan konfirmasi kata sandi Anda",
+  "passwordsDoNotMatch": "Kata sandi tidak cocok",
+  "otpVerified": "OTP Terverifikasi",
+  "pleaseSelectAPaymentMethodFirst": "Silakan pilih metode pembayaran terlebih dahulu",
+  "fetchingAddress": "Mengambil alamat...",
+  "selectedLocation": "Lokasi dipilih",
+  "gettingAddress": "Mendapatkan alamat...",
+  "unknownLocation": "Lokasi tidak diketahui",
+  "deliveryNotAvailableAtThisLocation": "Pengiriman tidak tersedia di lokasi ini",
+  "sorryWeDontDeliverHereYet": "Maaf! Kami belum mengirimkan di sini",
+  "thisLocationIsOutsideOurDeliveryZone": "Lokasi ini saat ini berada di luar zona pengiriman kami. Coba cari area terdekat atau periksa lagi nanti.",
+  "addressDetails": "Detail Alamat",
+  "pleaseEnterAddressLine1": "Silakan masukkan Alamat Baris 1",
+  "pleaseEnterCountry": "Silakan masukkan Negara",
+  "pleaseEnterState": "Silakan masukkan Provinsi",
+  "pleaseEnterCity": "Silakan masukkan Kota",
+  "pleaseEnterZipcode": "Silakan masukkan Kode Pos",
+  "contactDetails": "Detail Kontak",
+  "pleaseEnterMobileNumber": "Silakan masukkan nomor ponsel",
+  "saveAddressAs": "Simpan alamat sebagai",
+  "work": "Kerja",
+  "other": "Lainnya",
+  "enterCompleteAddress": "Masukkan Alamat Lengkap",
+  "confirm": "Konfirmasi",
+  "checkingDelivery": "Memeriksa pengiriman...",
+  "confirmLocation": "Konfirmasi Lokasi",
+  "confirmAddressToProceed": "Konfirmasi Alamat untuk Melanjutkan",
+  "addAddressToProceed": "Tambah Alamat untuk Melanjutkan",
+  "deliveryNotAvailable": "Pengiriman Tidak Tersedia",
+  "skip": "Lewati",
+  "welcomeBack": "Selamat Kembali",
+  "signInToYourAccount": "Masuk ke akun Anda untuk melanjutkan",
+  "verifying": "Memverifikasi...",
+  "or": "atau",
+  "dontHaveAnAccount": "Belum memiliki akun? ",
+  "emailVerifiedSuccessfully": "Email berhasil diverifikasi",
+  "phoneNumberVerifiedSuccessfully": "Nomor telepon berhasil diverifikasi",
+  "thisEmailIsNotRegistered": "Email ini tidak terdaftar. Silakan daftar terlebih dahulu.",
+  "thisPhoneNumberIsNotRegistered": "Nomor telepon ini tidak terdaftar. Silakan daftar terlebih dahulu.",
+  "unableToVerifyUser": "Tidak dapat memverifikasi pengguna. Silakan coba lagi.",
+  "emailOrPhoneNumberIsRequired": "Email atau nomor telepon diperlukan",
+  "enterValidEmailOrPhone": "Masukkan email atau telepon yang valid",
+  "passwordIsRequired": "Kata sandi diperlukan",
+  "passwordMustBeAtLeast6Characters": "Kata sandi harus minimal 6 karakter",
+  "alreadyHaveAnAccount": "Sudah memiliki akun? ",
+  "createAccount": "Buat akun",
+  "emailAlreadyRegisteredUseDifferent": "Email sudah terdaftar. Silakan gunakan email yang berbeda.",
+  "changeLocation": "Ubah Lokasi",
+  "chooseAddressForDelivery": "Pilih alamat untuk pengiriman",
+  "balance": "Saldo",
+  "tapCoinToRefresh": "Ketuk koin untuk menyegarkan",
+  "viewTransactions": "Lihat Transaksi",
+  "verifyOtp": "Verifikasi OTP",
+  "pleaseFillDetailsCreateYourAccount": "Silakan isi detail untuk membuat akun Anda",
+  "emailAvailable": "Email tersedia",
+  "errorVerifyingEmail": "Kesalahan memverifikasi email",
+  "pleaseAddYourDeliveryAddress": "Silakan tambahkan alamat pengiriman Anda",
+  "areYouSureDeleteFeedback": "Anda yakin ingin menghapus umpan balik",
+  "addTo": "Tambah ke…",
+  "moveTo": "Pindahkan ke…",
+  "accountInformation": "Informasi Akun",
+  "mobile": "Ponsel",
+  "rewardPoints": "Poin Reward",
+  "referralCode": "Kode Referral",
+  "notProvided": "Tidak disediakan",
+  "notAvailable": "Tidak tersedia",
+  "failedToLoadProfile": "Gagal memuat profil",
+  "pleaseCheckConnection": "Silakan periksa koneksi Anda dan coba lagi",
+  "noProfileDataAvailable": "Tidak ada data profil tersedia",
+  "giveYourDeliveryHeroFeedback": "Berikan umpan balik untuk pahlawan pengiriman Anda!",
+  "editYourFeedbackFor": "Edit umpan balik Anda untuk {name}",
+  "@editYourFeedbackFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "leaveFeedback": "Berikan Umpan Balik",
+  "editFeedback": "Edit Umpan Balik",
+  "editSellerFeedback": "Edit Umpan Balik Penjual",
+  "leaveSellerFeedback": "Berikan Umpan Balik Penjual",
+  "productNotApprovedBySeller": "Produk ini tidak disetujui oleh penjual",
+  "leaveItemFeedback": "Berikan Umpan Balik Item",
+  "cashOnDelivery": "Bayar Saat Tiba",
+  "paidOnline": "Dibayar Online",
+  "orderPlacedOn": "Pesanan ditempatkan pada {date}",
+  "@orderPlacedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "locationAccessDescription": "Aplikasi ini menyediakan layanan dkstore. Silakan aktifkan lokasi untuk mendapatkan rekomendasi yang dipersonalisasi dan hasil yang akurat.",
+  "turnOnLocationServicesDescription": "Aktifkan Layanan Lokasi dan berikan izin lokasi aplikasi untuk melanjutkan.",
+  "loadingPaymentPage": "Memuat halaman pembayaran...",
+  "youCanUploadUpToImagesOnly": "Anda hanya dapat mengunggah hingga {count} gambar.",
+  "@youCanUploadUpToImagesOnly": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onlyMoreImagesAddedMaxLimit": "Hanya {remaining} gambar lagi yang ditambahkan. Batas maksimal: {max}.",
+  "@onlyMoreImagesAddedMaxLimit": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "onlinePaymentMethods": "Metode Pembayaran Online",
+  "noCategoryFound": "Tidak Ada Kategori Ditemukan",
+  "noStoreFound": "Tidak Ada Toko Ditemukan",
+  "wereNotHereYet": "Kami belum di sini",
+  "weCouldntFindAnyCategories": "Kami tidak dapat menemukan kategori apa pun.",
+  "weCouldntFindAnyStoreInYourSelectLocation": "Kami tidak dapat menemukan toko apa pun di lokasi pilihan Anda.",
+  "phoneNumberCopied": "Nomor telepon disalin ke papan klip!",
+  "emailCopied": "Email disalin ke papan klip!",
+  "pleaseWaitBeforeResending": "Silakan tunggu sebelum mengirim ulang.",
+  "toPay": "Untuk Dibayar:",
+  "currentlyUnavailable": "Saat ini tidak tersedia",
+  "noStoresOrProductsAreAvailableInThisAreaRightNow": "Tidak ada toko atau produk yang tersedia di area ini saat ini.",
+  "checkConnectionAndTryAgain": "Silakan periksa koneksi Anda dan coba lagi.",
+  "weWillBeBackSoon": "Kami akan kembali segera. Tahan!",
+  "noOrdersYetDescription": "Sepertinya Anda belum memiliki pesanan apa pun.",
+  "tryAdjustingSearchTerms": "Coba sesuaikan istilah pencarian Anda.",
+  "noProductMatchingSearch": "Kami tidak dapat menemukan produk apa pun yang cocok dengan pencarian Anda.",
+  "feedbackDeletedSuccessfully": "Ulasan berhasil dihapus!",
+  "rateDeliveryHero": "Beri Nilai Pahlawan Pengiriman",
+  "howWasTheDelivery": "Bagaimana pengirimannya?",
+  "egSuperFastDelivery": "cth., Pengiriman super cepat!",
+  "youMightAlsoLike": "Anda mungkin juga suka",
+  "storeCurrentlyClosed": "Toko sedang ditutup",
+  "minimumQuantityRequired": "Jumlah minimum yang diperlukan adalah {minQty}",
+  "@minimumQuantityRequired": {
+    "placeholders": {
+      "minQty": {}
+    }
+  },
+  "maximumQuantityAllowed": "Maksimal {maxQty} item diizinkan",
+  "@maximumQuantityAllowed": {
+    "placeholders": {
+      "maxQty": {}
+    }
+  },
+  "onlyXItemsInStock": "Hanya {stock} item tersedia di stok",
+  "@onlyXItemsInStock": {
+    "placeholders": {
+      "stock": {}
+    }
+  },
+  "minimumCartAmountRequired": "Tambah {minAmount} lagi untuk mencapai minimum checkout {miniCheckoutAmount}.",
+  "@minimumCartAmountRequired": {
+    "placeholders": {
+      "minAmount": {},
+      "miniCheckoutAmount": {}
+    }
+  },
+  "youHaveReachedMaximumLimitOfTheCart": "Batas maksimum item dicapai",
+  "onlyOneStoreAtATime": "Anda hanya dapat memesan dari satu toko sekaligus",
+  "onlyFewLeft": "Hanya {stock} tersisa!",
+  "@onlyFewLeft": {
+    "placeholders": {
+      "stock": {}
+    }
+  },
+  "inStock": "Stok tersedia",
+  "noTransactionYet": "Belum Ada Transaksi",
+  "noTransactionDescriptionMsg": "Aktivitas dompet Anda akan muncul di sini setelah",
+  "noTransactionDescriptionSecondaryMsg": "Anda melakukan transaksi pertama Anda.",
+  "cannotAddMoreThanXItems": "Anda hanya dapat menambahkan {remaining} item lagi ke keranjang Anda.",
+  "@cannotAddMoreThanXItems": {
+    "description": "Ditampilkan ketika pengguna mencoba menambahkan item melebihi batas keranjang",
+    "placeholders": {
+      "remaining": {}
+    }
+  },
+  "youCanAddOnlyXMoreItems": "Anda hanya dapat menambahkan {count} item lagi.",
+  "@youCanAddOnlyXMoreItems": {
+    "description": "Versi lebih sederhana dari peringatan item maksimal",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "cartIsAlreadyAtMaximumLimit": "Keranjang Anda telah mencapai batas item maksimum ({maxAllowed}).",
+  "@cartIsAlreadyAtMaximumLimit": {
+    "placeholders": {
+      "maxAllowed": {}
+    }
+  },
+  "cannotAddFromDifferentStore": "Anda hanya dapat menambahkan item dari toko yang sama. Silakan kosongkan keranjang Anda atau pilih item dari toko ini.",
+  "cartAlreadyContainsMultipleStores": "Keranjang Anda sudah berisi item dari beberapa toko. Silakan selesaikan pesanan saat ini atau kosongkan keranjang terlebih dahulu.",
+  "inCart": "di keranjang",
+  "thisActionIsPermanent": "Tindakan ini PERMANEN.",
+  "allYourDataWillBeLostForever": "Semua data Anda akan hilang selamanya.",
+  "addYourFirstAddressToStart": "Tambahkan alamat pertama Anda untuk memulai",
+  "noAddressFound": "Tidak Ada Alamat Ditemukan",
+  "includingAllTax": "(termasuk semua pajak)",
+  "dataPlaceholder": "data",
+  "writeYourNoteHere": "Tulis catatan Anda di sini...",
+  "clearingYourCart": "Mengosongkan keranjang Anda...",
+  "imagesLabel": "Gambar",
+  "imagesSubtitle": "JPG, PNG (Maks 5MB)",
+  "pdfDocumentLabel": "Dokumen PDF",
+  "pdfDocumentSubtitle": "File PDF (Maks 10MB)",
+  "wordDocumentLabel": "Dokumen Word",
+  "wordDocumentSubtitle": "File DOCX (Maks 10MB)",
+  "cannotOpenFile": "Tidak dapat membuka file: {url}",
+  "@cannotOpenFile": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "errorOpeningAttachment": "Kesalahan membuka lampiran: {error}",
+  "@errorOpeningAttachment": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "paystackPaymentTitle": "Pembayaran Paystack",
+  "enableLocationTitle": "Aktifkan Lokasi",
+  "failed": "Gagal",
+  "youWillBeResponsible": "Anda akan bertanggung jawab",
+  "deleteWishlistConfirmation": "Anda yakin ingin menghapus wishlist ini?",
+  "noReviewsAvailable": "Tidak ada ulasan tersedia",
+  "searchForStore": "Cari toko",
+  "getStarted": "Mulai Sekarang",
+  "next": "Berikutnya",
+  "introPage1Title": "Berbelanja dengan Percaya Diri",
+  "introPage1Description": "Temukan ribuan produk dari penjual terpercaya dengan pembayaran aman dan pengiriman cepat.",
+  "introPage2Title": "Lacak Pesanan Anda",
+  "introPage2Description": "Tetap terupdate dengan pelacakan real-time dan dapatkan notifikasi tentang status pesanan Anda.",
+  "introPage3Title": "Pengembalian Mudah",
+  "introPage3Description": "Tidak puas? Kembalikan item Anda dengan mudah dengan kebijakan pengembalian 30 hari kami.",
+  "pleaseEnterAtleast2Letters": "Silakan masukkan minimal 2 huruf",
+  "atleast1ItemIsRequired": "Minimal 1 item diperlukan",
+  "enterYourPhoneNumberToReceiveOtp": "Masukkan nomor telepon Anda dan kami akan mengirimkan OTP untuk verifikasi.",
+  "sendOtp": "Kirim OTP",
+  "phoneNumberTooShort": "Silakan masukkan nomor telepon yang valid",
+  "deliveryZones": "Zona Pengiriman",
+  "searchDeliveryZone": "Cari Zona Pengiriman",
+  "zoneDetails": "Detail Zona",
+  "viewDetailsAboutDeliveryZone": "Lihat detail tentang zona pengiriman",
+  "zoneInformation": "Informasi Zona",
+  "zoneId": "ID Zona",
+  "zoneName": "Nama Zona",
+  "status": "Status",
+  "deliveryFees": "Biaya Pengiriman",
+  "deliveryFee": "Biaya Pengiriman",
+  "freeDeliveryAbove": "Pengiriman Gratis Di Atas",
+  "perKMCharge": "Biaya Per KM",
+  "perStoreFee": "Biaya Per Toko",
+  "deliveryTimes": "Waktu Pengiriman",
+  "regularTimePerKM": "Waktu Reguler Per KM",
+  "bufferTime": "Waktu Buffer",
+  "coverageDetails": "Detail Jangkauan",
+  "radius": "Radius",
+  "centerCoordinates": "Koordinat Pusat",
+  "boundaryPoints": "Titik Batas",
+  "handlingFee": "Biaya Penanganan",
+  "coverageRadius": "Radius Jangkauan",
+  "noteThisStoreIsNOtAvailableInYourLocation": "Catatan: Toko ini tidak tersedia di lokasi Anda.",
+  "rush": "Ekspres",
+  "clearFilters": "Hapus Filter",
+  "applyFilters": "Terapkan Filter",
+  "notifications": "Notifikasi",
+  "markAllAsRead": "Tandai Semua Sebagai Dibaca",
+  "yourWishlistIsEmpty": "Your Wishlist is Empty",
+  "createYourFirstWishlistToOrganizeAndSaveItemsYouHave": "Buat wishlist pertama Anda untuk mengorganisir dan menyimpan item yang Anda sukai",
+  "viewOrderDetails": "View Order Details",
+  "phoneNumberAlreadyRegistered": "Phone number is already registered",
+  "pleaseSelectAValidCountryCode": "Please select a valid country code",
+  "phoneNumberAvailable": "Phone number is available",
+  "totalItems": "Total Items",
+  "noPromoCodesAvailable": "No Promo Codes Available",
+  "thereAreNoActivePromoCodeOrCouponsAvailableRightNow": "There are no active promo codes or coupons available right now",
+  "phoneNumberTooLong": "Phone number is too long"
+}

@@ -1,0 +1,156 @@
+#############################
+# Flutter
+#############################
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.bak
+.packages
+.pub/
+.pub-cache/
+
+build/
+coverage/
+
+#############################
+# Generated
+#############################
+
+*.lock
+!pubspec.lock
+
+#############################
+# Android
+#############################
+
+android/.gradle/
+android/local.properties
+
+*.apk
+*.aab
+
+#############################
+# Android Keystore
+#############################
+
+*.jks
+*.keystore
+key.properties
+
+#############################
+# iOS
+#############################
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+
+#############################
+# macOS
+#############################
+
+macos/Pods/
+macos/Flutter/ephemeral/
+
+#############################
+# IDE
+#############################
+
+.idea/
+.vscode/
+
+*.iml
+
+#############################
+# Environment Variables
+#############################
+
+.env
+.env.*
+.env.local
+
+#############################
+# Firebase
+#############################
+
+# Flutter generated Firebase config
+lib/firebase_options.dart
+
+# Android Firebase
+android/app/google-services.json
+
+# iOS Firebase
+ios/Runner/GoogleService-Info.plist
+
+# macOS Firebase
+macos/Runner/GoogleService-Info.plist
+
+# Firebase Admin SDK
+service-account.json
+firebase-adminsdk.json
+firebase-adminsdk-*.json
+
+# Firebase Emulator
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Firebase Extensions
+extensions/
+
+#############################
+# Certificates
+#############################
+
+*.pem
+*.p12
+*.p8
+*.key
+*.csr
+*.mobileprovision
+
+#############################
+# Logs
+#############################
+
+*.log
+
+#############################
+# Cache & Temp
+#############################
+
+.cache/
+tmp/
+temp/
+
+#############################
+# Fastlane
+#############################
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+#############################
+# Backup Files
+#############################
+
+*.bak
+*.backup
+*.old
+*.orig
+
+#############################
+# CI/CD
+#############################
+
+.github/secrets/
+
+#############################
+# OS Files
+#############################
+
+.DS_Store
+Thumbs.db
